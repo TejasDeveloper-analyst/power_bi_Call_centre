@@ -2,7 +2,6 @@
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
@@ -17,8 +16,6 @@ The dashboard enables stakeholders to quickly identify operational strengths, sp
 ## 🔗 Live Demo
 
 👉 [View Dashboard Live](https://app.powerbi.com/view?r=eyJrIjoiMzdjZjAzMzktZTBlNy00NzliLWIyYTQtYjEwY2U4ZGQ4M2ZiIiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9)  
-
-> _(If not live yet, mention: "Coming Soon!")_
 
 ---
 
